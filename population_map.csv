@@ -1,3 +1,4 @@
-community,value
-Tshakhuma,16300
-GaMoela,600
+community,parent,value
+Origin,,
+Tshakhuma,Origin,16300
+GaMoela,Origin,600
